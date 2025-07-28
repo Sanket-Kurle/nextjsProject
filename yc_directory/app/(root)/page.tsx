@@ -3,7 +3,7 @@
 export default function Home() {
   return (
     <>
-      <h1 className="text-3xl">HOME</h1>
+      <h1 className="heading">HOME</h1>
     </>
   );
 }
